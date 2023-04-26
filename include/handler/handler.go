@@ -30,6 +30,8 @@ func handleConnection(w http.ResponseWriter, r *http.Request) {
 		resultT.Data = resultSetT
 		resultT.Error = ""
 	}
+	w.Header().Set("Access-Control-Allow-Origin", "*")
+	w.Header().Set("Access-Control-Allow-Headers", "Content-Type")
 
 	message, err := json.Marshal(resultT)
 	if err != nil {

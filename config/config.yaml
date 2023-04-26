@@ -1,6 +1,6 @@
 server:
   addr: "localhost"
-  port: "8484"
+  port: "8282"
 
 simulator:
   addr: "localhost"
