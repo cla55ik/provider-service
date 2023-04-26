@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dc7c4b1-1f46-4ec6-8548-dd6ba526641b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/cmd/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/web/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/billing.data" beforeDir="false" afterPath="$PROJECT_DIR$/data/billing.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/email.data" beforeDir="false" afterPath="$PROJECT_DIR$/data/email.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sms.data" beforeDir="false" afterPath="$PROJECT_DIR$/data/sms.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/voice.data" beforeDir="false" afterPath="$PROJECT_DIR$/data/voice.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/handler/handler.go" beforeDir="false" afterPath="$PROJECT_DIR$/include/handler/handler.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/server/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/include/server/server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main" beforeDir="false" afterPath="$PROJECT_DIR$/main" afterDir="false" />
-    </list>
+    <list default="true" id="7dc7c4b1-1f46-4ec6-8548-dd6ba526641b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
